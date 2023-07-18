@@ -1,2 +1,35 @@
-
-/* Your CSS Code here. */
+body{
+    background-color: grey;
+}
+.heading{
+    background-color: black;
+    margin-top: 0;
+    color: white;
+}
+.portfolio{
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+h1{
+    margin: auto;
+    text-align: center;
+}
+h3{
+    transition: 1s ease;
+}
+h3:hover{
+    font-size: 150%;
+}
+h3{
+    text-decoration: underline;
+}
+.row{
+    text-align: center;
+}
+.footer{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
